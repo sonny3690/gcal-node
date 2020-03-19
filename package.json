@@ -1,0 +1,12 @@
+{
+  "name": "gcal-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
